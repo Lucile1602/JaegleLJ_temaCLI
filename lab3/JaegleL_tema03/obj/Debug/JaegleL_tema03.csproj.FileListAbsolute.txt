@@ -1,0 +1,12 @@
+C:\Users\lucil\OneDrive\Documents\USV\an3_1\EGC\laboratoare\lab3\JaegleL_tema03\obj\Debug\JaegleL_tema03.csproj.AssemblyReference.cache
+C:\Users\lucil\OneDrive\Documents\USV\an3_1\EGC\laboratoare\lab3\JaegleL_tema03\obj\Debug\JaegleL_tema03.csproj.CoreCompileInputs.cache
+C:\Users\lucil\OneDrive\Documents\USV\an3_1\EGC\laboratoare\lab3\JaegleL_tema03\bin\Debug\JaegleL_tema03.exe.config
+C:\Users\lucil\OneDrive\Documents\USV\an3_1\EGC\laboratoare\lab3\JaegleL_tema03\bin\Debug\JaegleL_tema03.exe
+C:\Users\lucil\OneDrive\Documents\USV\an3_1\EGC\laboratoare\lab3\JaegleL_tema03\bin\Debug\JaegleL_tema03.pdb
+C:\Users\lucil\OneDrive\Documents\USV\an3_1\EGC\laboratoare\lab3\JaegleL_tema03\bin\Debug\OpenTK.dll
+C:\Users\lucil\OneDrive\Documents\USV\an3_1\EGC\laboratoare\lab3\JaegleL_tema03\bin\Debug\OpenTK.GLControl.dll
+C:\Users\lucil\OneDrive\Documents\USV\an3_1\EGC\laboratoare\lab3\JaegleL_tema03\bin\Debug\OpenTK.xml
+C:\Users\lucil\OneDrive\Documents\USV\an3_1\EGC\laboratoare\lab3\JaegleL_tema03\bin\Debug\OpenTK.GLControl.xml
+C:\Users\lucil\OneDrive\Documents\USV\an3_1\EGC\laboratoare\lab3\JaegleL_tema03\obj\Debug\JaegleL_.DFF9C789.Up2Date
+C:\Users\lucil\OneDrive\Documents\USV\an3_1\EGC\laboratoare\lab3\JaegleL_tema03\obj\Debug\JaegleL_tema03.exe
+C:\Users\lucil\OneDrive\Documents\USV\an3_1\EGC\laboratoare\lab3\JaegleL_tema03\obj\Debug\JaegleL_tema03.pdb

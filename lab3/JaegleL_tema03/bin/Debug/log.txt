@@ -1,0 +1,7299 @@
+Log Start - 06.11.2024 21:45:15
+Application Loaded
+Viewport resized to 1200x900
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn
+Point drawn at (0,0)
+Line drawn from (-100, -100) to (100, 100)
+LineLoop drawn as square
+Triangle drawn
+TriangleFan drawn
+TriangleStrip drawn

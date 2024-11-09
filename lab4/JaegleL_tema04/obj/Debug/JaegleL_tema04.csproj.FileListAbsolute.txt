@@ -1,0 +1,10 @@
+C:\Users\lucil\OneDrive\Documents\USV\an3_1\EGC\laboratoare\lab4\JaegleL_tema04\obj\Debug\JaegleL_tema04.csproj.AssemblyReference.cache
+C:\Users\lucil\OneDrive\Documents\USV\an3_1\EGC\laboratoare\lab4\JaegleL_tema04\obj\Debug\JaegleL_tema04.csproj.CoreCompileInputs.cache
+C:\Users\lucil\OneDrive\Documents\USV\an3_1\EGC\laboratoare\lab4\JaegleL_tema04\bin\Debug\JaegleL_tema04.exe.config
+C:\Users\lucil\OneDrive\Documents\USV\an3_1\EGC\laboratoare\lab4\JaegleL_tema04\bin\Debug\JaegleL_tema04.exe
+C:\Users\lucil\OneDrive\Documents\USV\an3_1\EGC\laboratoare\lab4\JaegleL_tema04\bin\Debug\JaegleL_tema04.pdb
+C:\Users\lucil\OneDrive\Documents\USV\an3_1\EGC\laboratoare\lab4\JaegleL_tema04\bin\Debug\OpenTK.dll
+C:\Users\lucil\OneDrive\Documents\USV\an3_1\EGC\laboratoare\lab4\JaegleL_tema04\bin\Debug\OpenTK.xml
+C:\Users\lucil\OneDrive\Documents\USV\an3_1\EGC\laboratoare\lab4\JaegleL_tema04\obj\Debug\JaegleL_.0DFEC789.Up2Date
+C:\Users\lucil\OneDrive\Documents\USV\an3_1\EGC\laboratoare\lab4\JaegleL_tema04\obj\Debug\JaegleL_tema04.exe
+C:\Users\lucil\OneDrive\Documents\USV\an3_1\EGC\laboratoare\lab4\JaegleL_tema04\obj\Debug\JaegleL_tema04.pdb

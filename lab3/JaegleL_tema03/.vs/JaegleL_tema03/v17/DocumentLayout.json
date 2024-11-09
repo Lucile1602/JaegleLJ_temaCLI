@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucil\\OneDrive\\Documents\\USV\\an3_1\\EGC\\laboratoare\\lab3\\JaegleL_tema03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{992C9225-B405-489C-85EF-3444D1BB59F6}|JaegleL_tema03.csproj|c:\\users\\lucil\\onedrive\\documents\\usv\\an3_1\\egc\\laboratoare\\lab3\\jaeglel_tema03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{992C9225-B405-489C-85EF-3444D1BB59F6}|JaegleL_tema03.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucil\\OneDrive\\Documents\\USV\\an3_1\\EGC\\laboratoare\\lab3\\JaegleL_tema03\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lucil\\OneDrive\\Documents\\USV\\an3_1\\EGC\\laboratoare\\lab3\\JaegleL_tema03\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAP4AAAAAAAAAAAAmwM8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:45:02.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 161,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
